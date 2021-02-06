@@ -1,0 +1,22 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "Basic node setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishorjackpot/basic-node.git"
+  },
+  "author": "kishor joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishorjackpot/basic-node/issues"
+  },
+  "homepage": "https://github.com/kishorjackpot/basic-node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
